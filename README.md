@@ -42,5 +42,5 @@
 
 + 因为对我来说平时在mac上用Alfred控制音乐软件，不如用Alfred的Remote功能在手机上控制音乐软件更为方便
 
-+  据说__参考资料__:[Mac OS X 下功能按键在 AppleScript 下的编号 (Key Codes for Function and Special Keys in Applescript)](http://macbiblioblog.blogspot.sg/2014/12/key-codes-for-function-and-special-keys.html)
++  据说__参考资料__:[Complete list of AppleScript key codes](https://eastmanreference.com/complete-list-of-applescript-key-codes)
 
